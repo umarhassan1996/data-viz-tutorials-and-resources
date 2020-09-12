@@ -3,7 +3,7 @@
 Here is a list of projects, resources, groups & tutorials to help you improve your data visualisation skills for your data journalism work. This repository will be constantly updated with the latest set of resources on a weekly basis.
 
 # Contents
-- [Individuals to follow on Twitter](https://github.com/umarhassan1996/data-viz-tutorials-and-resources/#data-journalism-&-data-professionals-to-follow-on-twitter)
+- [ Data journalism & data professionals to follow on Twitter](https://github.com/umarhassan1996/data-viz-tutorials-and-resources/#data-journalism-&-data-professionals-to-follow-on-twitter)
 - [Social data projects](https://github.com/umarhassan1996/data-viz-tutorials-and-resources/#social-data-projects)
 - [Data visualisation best practice](https://github.com/umarhassan1996/data-viz-tutorials-and-resources/#data-visualisation-best-practice)
 - [Data visualisation tutorials and how-tos](https://github.com/umarhassan1996/data-viz-tutorials-and-resources/#data-visualisation-tutorials-and-how-tos)
