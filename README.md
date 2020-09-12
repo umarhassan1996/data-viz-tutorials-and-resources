@@ -1,2 +1,5 @@
-# data-viz-tutorials-and-resources
-All sorts of data viz tutorials and resources for data journalists in Tableau, R, Excel, Angular, and more.
+# Data viz resources and tutorials for data journalists.
+
+Here is a list of projects, resources & tutorials to help you improve your data visualisation skills for your data journalism work.
+
+### 
