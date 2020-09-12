@@ -13,7 +13,7 @@ Here is a list of projects, resources, groups & tutorials to help you improve yo
 ## Data journalism & data professionals to follow on Twitter
 
 - [Paul Bradshaw](https://twitter.com/paulbradshaw)
-- [John Burn-Murdoch](https://twitter.com/jbmurdoch)
+- [John Burn-Murdoch](https://twitter.com/jburnmurdoch)
 - [Alex Selby-Boothroyd](https://twitter.com/AlexSelbyB)
 - [Chris Love](https://twitter.com/ChrisLuv)
 - [Neil Richards](https://twitter.com/theneilrichards)
