@@ -3,14 +3,14 @@
 Here is a list of projects, resources, groups & tutorials to help you improve your data visualisation skills for your data journalism work. This repository will be constantly updated with the latest set of resources on a weekly basis.
 
 # Contents
-- [ Data journalism & data professionals to follow on Twitter](https://github.com/umarhassan1996/data-viz-tutorials-and-resources/#data-journalism-&-data-professionals-to-follow-on-twitter)
+- [ Data journalism and data professionals to follow on Twitter](https://github.com/umarhassan1996/data-viz-tutorials-and-resources/#data-journalism-&-data-professionals-to-follow-on-twitter)
 - [Social data projects](https://github.com/umarhassan1996/data-viz-tutorials-and-resources/#social-data-projects)
 - [Data visualisation best practice](https://github.com/umarhassan1996/data-viz-tutorials-and-resources/#data-visualisation-best-practice)
 - [Data visualisation tutorials and how-tos](https://github.com/umarhassan1996/data-viz-tutorials-and-resources/#data-visualisation-tutorials-and-how-tos)
-- [Data visualisation & journalism groups to join](https://github.com/umarhassan1996/data-viz-tutorials-and-resources/#data-visualisation-&-journalism-groups-to-join)
+- [Data visualisation and journalism groups to join](https://github.com/umarhassan1996/data-viz-tutorials-and-resources/#data-visualisation-and-journalism-groups-to-join)
 - [Awards you can enter](https://github.com/umarhassan1996/data-viz-tutorials-and-resources/#awards-you-can-enter)
 
-## Data journalism & data professionals to follow on Twitter
+## Data journalism and data professionals to follow on Twitter
 
 - [Paul Bradshaw](https://twitter.com/paulbradshaw)
 - [John Burn-Murdoch](https://twitter.com/jburnmurdoch)
@@ -48,7 +48,7 @@ Some social data projects that will help you improve your data storytelling, des
 - [Playfair Data](https://playfairdata.com/blog/) - Despite it being a website for a Tableau-focused consultancy, it contains a lot of very useful how-to blogs for creating visualisations in Tableau.
 - [The Information Lab](https://www.theinformationlab.co.uk/category/blog/) - There are many great Tableau articles on this blog so definitely check them out when you have a chance if you want to learn Tableau.
 
-## Data visualisation & journalism groups to join
+## Data visualisation and journalism groups to join
 
 - [Data Visualization Society](https://www.datavisualizationsociety.com/) - A community of data journalists, analysts and professionals to help grow your data visualisation skills.
 - [Birmingham R User Group](https://www.meetup.com/BirminghamR/) - Group for R users of all levels and backgrounds to meet together to improve your R skills in the Birmingham area.
