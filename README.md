@@ -1,6 +1,6 @@
 # Data viz resources for data journalists.
 
-Here is a list of projects, resources, groups & tutorials to help you improve your data visualisation skills for your data journalism work. This repository will be constantly updated with the latest set of resources on a weekly basis.
+Here is a list of projects, resources, groups & tutorials to help you improve your data visualisation skills for your data journalism work. This repository will be constantly updated with the latest set of resources on a weekly basis. I have also included examples of great data journalism that you can view in this Git.
 
 # Contents
 - [ Data journalism and data professionals to follow on Twitter](https://github.com/umarhassan1996/data-viz-tutorials-and-resources/#data-journalism-&-data-professionals-to-follow-on-twitter)
