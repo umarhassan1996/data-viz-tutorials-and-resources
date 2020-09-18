@@ -47,11 +47,20 @@ Some social data projects that will help you improve your data storytelling, des
 - [R-bloggers](https://www.r-bloggers.com/) - Dedicated website with several tutorials and how-tos to improve your R skills.
 - [Playfair Data](https://playfairdata.com/blog/) - Despite it being a website for a Tableau-focused consultancy, it contains a lot of very useful how-to blogs for creating visualisations in Tableau.
 - [The Information Lab](https://www.theinformationlab.co.uk/category/blog/) - There are many great Tableau articles on this blog so definitely check them out when you have a chance if you want to learn Tableau.
+- [Codeacademy](https://www.codecademy.com/learn) - Educational platform that allows you to learn not just HTML, CSS & JavaScript, but also Python & R.
+- [The Centre for Investigative Journalism](https://tcij.org/) - British independent charity that offers training courses, events & talks to improve your investigative journalism skills. There are elements of data journalism in the CIJ course material.
+
+## Examples of excellent reporting with data journalism
+
+- [Tortoise - Off Campus - Chris Cook](https://members.tortoisemedia.com/2020/05/26/universities-in-crisis-main-piece-off-campus-cc/content.html) - This piece which fuses investigative & data journalism together is a great example of how to use both mediums to cover a pressing story around if universities could survive COVID-19 when the lockdown was in place in mid-2020.
+- [BBC News(BBC Shared Data Unit) - More takeaways on high street despite anti-obesity push - Alex Homer](https://www.bbc.co.uk/news/uk-45875294) - An excellent story that looks at the rise in takeaway outlets on the UK high street.
+- [Sky News - Coronavirus: Why scientists have warned COVID lockdowns will not stop climate change - Carmen Aguilar Garcia & Alix Culbertson](https://news.sky.com/story/coronavirus-why-scientists-have-warned-covid-lockdowns-will-not-stop-climate-change-12067396) - The story which is a great data journalism explainer covers why COVID lockdowns will not be enough to stop climate change.
 
 ## Data visualisation and journalism groups to join
 
 - [Data Visualization Society](https://www.datavisualizationsociety.com/) - A community of data journalists, analysts and professionals to help grow your data visualisation skills.
 - [Birmingham R User Group](https://www.meetup.com/BirminghamR/) - Group for R users of all levels and backgrounds to meet together to improve your R skills in the Birmingham area.
+- [Global Investigative Journalism Network](https://gijn.org/) - Global organisation that specialises in providing resources and networking opportunities for investigative and data journalists.
 - [Hacks/Hackers Birmingham](https://www.meetup.com/Hacks-Hackers-Birmingham/) - Birmingham-based group for journalists & technology professionals to meet together to collaborate on projects in hackdays around a topical theme.
 - [Birmingham Tableau User Group](https://usergroups.tableau.com/Birmingham) - Birmingham-based group, bringing together data professionals who are engaged in the Tableau community. 
 - [Journocoders](https://www.meetup.com/Journocoders/) - London-based group that helps you learn and develop technical skills (data analysis, coding, etc.) that you can apply in your journalism work.
